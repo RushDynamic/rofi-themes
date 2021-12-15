@@ -41,3 +41,7 @@ element {
 element selected {
   background-color: #2e343f;
 }
+
+element-icon {
+  margin: 0 10px 0 0;
+}
